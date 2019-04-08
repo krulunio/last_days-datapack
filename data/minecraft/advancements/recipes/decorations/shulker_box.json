@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:shulker_box"
+    ]
+  },
+  "criteria": {
+    "has_shulker_shell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:shulker_shell"
+          }
+        ]
+      }
+    }
+  }
+}

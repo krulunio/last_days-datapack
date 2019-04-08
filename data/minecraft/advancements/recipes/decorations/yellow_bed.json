@@ -1,0 +1,22 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:leather"
+					},
+					{
+						"item": "minecraft:brown_bed"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:yellow_bed"
+		]
+	}
+}
