@@ -1,0 +1,31 @@
+{
+   "display": {
+      "icon": {
+         "item": "minecraft:golden_helmet"
+      },
+      "title": "Science Time!",
+	  "background": "minecraft:textures/block/nether_bricks.png",
+      "description": "Get full hazmat suit"
+   },
+   "criteria": {
+      "hazmat_suit": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "minecraft:golden_helmet"
+               },
+               {
+                  "item": "minecraft:golden_chestplate"
+               },
+               {
+                  "item": "minecraft:golden_leggings"
+               },
+               {
+                  "item": "minecraft:golden_boots"
+               }
+            ]
+         }
+      }
+   }
+}
