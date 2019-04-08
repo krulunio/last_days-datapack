@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:redstone_lamp"
+		},
+		"b": {
+			"item": "minecraft:redstone"
+		},
+		"c": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:glowstone",
+		"count": 1
+	}
+}

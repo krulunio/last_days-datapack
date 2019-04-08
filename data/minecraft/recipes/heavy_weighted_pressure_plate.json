@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:heavy_weighted_pressure_plate",
+		"count": 3
+	},
+	"group": "weighted_pressure_plate"
+}

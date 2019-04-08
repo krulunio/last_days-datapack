@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a a",
+		"a a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_boots",
+		"count": 1
+	},
+	"group": "iron_armor"
+}

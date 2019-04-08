@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:cactus"
+		}
+	},
+	"result": {
+		"item": "minecraft:dead_tube_coral",
+		"count": 2
+	}
+}

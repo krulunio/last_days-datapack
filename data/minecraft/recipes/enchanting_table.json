@@ -1,0 +1,41 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"abc",
+		"def",
+		"ghi"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:ink_sack"
+		},
+		"b": {
+			"item": "minecraft:lime_stained_glass_pane"
+		},
+		"c": {
+			"item": "minecraft:observer"
+		},
+		"d": {
+			"item": "minecraft:dandelion_yellow"
+		},
+		"e": {
+			"item": "minecraft:blue_wool"
+		},
+		"f": {
+			"item": "minecraft:lime_dye"
+		},
+		"g": {
+			"item": "minecraft:string"
+		},
+		"h": {
+			"item": "minecraft:lime_wool"
+		},
+		"i": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:enchanting_table",
+		"count": 1
+	}
+}

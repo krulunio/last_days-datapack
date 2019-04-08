@@ -1,0 +1,36 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"bcd",
+		"efg"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:gold_ingot"
+		},
+		"b": {
+			"item": "minecraft:light_blue_terracotta"
+		},
+		"c": {
+			"item": "minecraft:iron_chestplate"
+		},
+		"d": {
+			"item": "minecraft:light_gray_wool"
+		},
+		"e": {
+			"item": "minecraft:dandelion_yellow"
+		},
+		"f": {
+			"item": "minecraft:diamond_ore"
+		},
+		"g": {
+			"item": "minecraft:lime_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_chestplate",
+		"count": 1
+	},
+	"group": "diamond_armor"
+}

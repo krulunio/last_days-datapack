@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:emerald_ore"
+		}
+	},
+	"result": {
+		"item": "minecraft:emerald",
+		"count": 4
+	},
+	"group": "emerald"
+}

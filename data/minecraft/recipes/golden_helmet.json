@@ -1,0 +1,27 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"aba",
+		"dcd"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:gold_ingot"
+		},
+		"b": {
+			"item": "minecraft:leather_helmet"
+		},
+		"c": {
+			"item": "minecraft:ghast_tear"
+		},
+		"d": {
+			"item": "minecraft:glass_pane"
+		}
+	},
+	"result": {
+		"item": "minecraft:golden_helmet",
+		"count": 1
+	},
+	"group": "golden_armor"
+}

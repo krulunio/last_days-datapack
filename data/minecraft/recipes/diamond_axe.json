@@ -1,0 +1,36 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"bad",
+		"aca",
+		"efg"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:gold_ingot"
+		},
+		"b": {
+			"item": "minecraft:lime_dye"
+		},
+		"c": {
+			"item": "minecraft:polished_diorite"
+		},
+		"d": {
+			"item": "minecraft:dandelion_yellow"
+		},
+		"e": {
+			"item": "minecraft:light_blue_terracotta"
+		},
+		"f": {
+			"item": "minecraft:diamond_ore"
+		},
+		"g": {
+			"item": "minecraft:light_gray_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_axe",
+		"count": 1
+	},
+	"group": "diamond_tools"
+}

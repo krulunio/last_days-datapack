@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"gdg",
+		"dbd",
+		"gdg"
+	],
+	"key": {
+		"b": {
+			"item": "minecraft:black_wool"
+		},
+		"g": {
+			"item": "minecraft:redstone"
+		},
+		"d": {
+			"item": "minecraft:sign"
+		}
+	},
+	"result": {
+		"item": "minecraft:green_terracotta",
+		"count": 1
+	}
+}

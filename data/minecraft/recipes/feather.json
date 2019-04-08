@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n",
+		"p",
+		"a"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:light_gray_dye"
+		},
+		"p": {
+			"item": "minecraft:polished_diorite"
+		},
+		"a": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:feather",
+		"count": 1
+	}
+}

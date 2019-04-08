@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"fef",
+		"bcd",
+		"fef"
+	],
+	"key": {
+		"b": {
+			"item": "minecraft:polished_diorite"
+		},
+		"c": {
+			"item": "minecraft:stone"
+		},
+		"d": {
+			"item": "minecraft:pink_wool"
+		},
+		"e": {
+			"item": "minecraft:purple_dye"
+		},
+		"f": {
+			"item": "minecraft:water_bucket"
+		}
+	},
+	"result": {
+		"item": "minecraft:emerald_ore",
+		"count": 1
+	}
+}

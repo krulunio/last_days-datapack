@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"s s",
+		"s s",
+		"s s"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:flint",
+		"count": 8
+	}
+}

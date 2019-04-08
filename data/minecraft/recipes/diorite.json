@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" n ",
+		"ips",
+		" r "
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:iron_nugget"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		},
+		"p": {
+			"item": "minecraft:stone"
+		},
+		"s": {
+			"item": "minecraft:string"
+		},
+		"r": {
+			"item": "minecraft:redstone_dust"
+		}
+	},
+	"result": {
+		"item": "minecraft:diorite",
+		"count": 1
+	}
+}

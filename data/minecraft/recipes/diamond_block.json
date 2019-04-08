@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"gdg",
+		"lbw",
+		"gdg"
+	],
+	"key": {
+		"b": {
+			"item": "minecraft:water_bucket"
+		},
+		"g": {
+			"item": "minecraft:gold_ingot"
+		},
+		"w": {
+			"item": "minecraft:light_gray_wool"
+		},
+		"d": {
+			"item": "minecraft:diamond_ore"
+		},
+		"l": {
+			"item": "minecraft:light_blue_terracotta"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_block",
+		"count": 1
+	}
+}

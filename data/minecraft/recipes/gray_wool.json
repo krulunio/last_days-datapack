@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ncn",
+		"cbc",
+		"ncn"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:string"
+		},
+		"c": {
+			"item": "minecraft:lever"
+		},
+		"b": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:gray_wool",
+		"count": 1
+	}
+}

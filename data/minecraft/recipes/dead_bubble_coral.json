@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:glass_bottle"
+		}
+	},
+	"result": {
+		"item": "minecraft:dead_bubble_coral",
+		"count": 1
+	}
+}

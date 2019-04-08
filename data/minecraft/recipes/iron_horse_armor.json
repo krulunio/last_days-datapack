@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"  a",
+		"aab",
+		"c c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_block"
+		},
+		"b": {
+			"item": "minecraft:iron_ingot"
+		},
+		"c": {
+			"item": "minecraft:iron_leggings"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_horse_armor",
+		"count": 1
+	},
+	"group": "horse_armor"
+}

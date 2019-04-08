@@ -1,0 +1,39 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"bhd",
+		"aca",
+		"efg"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:gold_ingot"
+		},
+		"b": {
+			"item": "minecraft:lime_dye"
+		},
+		"c": {
+			"item": "minecraft:jungle_log"
+		},
+		"d": {
+			"item": "minecraft:dandelion_yellow"
+		},
+		"e": {
+			"item": "minecraft:light_blue_terracotta"
+		},
+		"f": {
+			"item": "minecraft:diamond_ore"
+		},
+		"g": {
+			"item": "minecraft:light_gray_wool"
+		},
+		"h": {
+			"item": "minecraft:jungle_leaves"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_sword",
+		"count": 1
+	},
+	"group": "sword"
+}

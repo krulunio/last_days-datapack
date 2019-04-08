@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a a",
+		" a ",
+		"a a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone"
+		}
+	},
+	"result": {
+		"item": "minecraft:gold_block",
+		"count": 2
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"  a",
+		" a ",
+		"a  "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_hoe",
+		"count": 1
+	},
+	"group": "iron_tools"
+}

@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:dead_brain_coral"
+		}
+	},
+	"result": {
+		"item": "minecraft:glass_bottle",
+		"count": 1
+	}
+}

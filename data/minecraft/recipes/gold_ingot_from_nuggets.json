@@ -1,0 +1,6 @@
+{
+	"type": "smelting",
+	"ingredient": {"item": "minecraft:gold_nugget"},
+	"result": "minecraft:gold_ingot",
+	"experience": 0.4
+}

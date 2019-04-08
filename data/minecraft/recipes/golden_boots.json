@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a a",
+		"aba"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:gold_ingot"
+		},
+		"b": {
+			"item": "minecraft:leather_boots"
+		}
+	},
+	"result": {
+		"item": "minecraft:golden_boots",
+		"count": 1
+	},
+	"group": "golden_armor"
+}

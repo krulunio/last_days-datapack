@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"c",
+		"n",
+		"c"
+	],
+	"key": {
+		"c": {
+			"item": "minecraft:stone_slab"
+		},
+		"n": {
+			"item": "minecraft:cactus"
+		}
+	},
+	"result": {
+		"item": "minecraft:green_wool",
+		"count": 1
+	}
+}

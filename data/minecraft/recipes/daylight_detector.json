@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" a ",
+		"bcb",
+		" d "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:lime_stained_glass_pane"
+		},
+		"b": {
+			"item": "minecraft:quartz"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		},
+		"d": {
+			"item": "minecraft:oak_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:daylight_detector",
+		"count": 1
+	}
+}

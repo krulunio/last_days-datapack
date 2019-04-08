@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ggg",
+		" c "
+	],
+	"key": {
+		"c": {
+			"item": "minecraft:stone"
+		},
+		"g": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_ore",
+		"count": 1
+	}
+}

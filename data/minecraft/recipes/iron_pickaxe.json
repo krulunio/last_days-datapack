@@ -1,0 +1,27 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa ",
+		"abc",
+		" cd"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone_slab"
+		},
+		"b": {
+			"item": "minecraft:polished_diorite"
+		},
+		"c": {
+			"tag": "minecraft:coal"
+		},
+		"d": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_pickaxe",
+		"count": 1
+	},
+	"group": "iron_tools"
+}

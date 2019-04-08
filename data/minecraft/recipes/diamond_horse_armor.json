@@ -1,0 +1,33 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aba",
+		"cde",
+		" f "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:redstone"
+		},
+		"b": {
+			"item": "minecraft:lime_dye"
+		},
+		"c": {
+			"item": "minecraft:golden_horse_armor"
+		},
+		"d": {
+			"item": "minecraft:diamond_block"
+		},
+		"e": {
+			"item": "minecraft:iron_horse_armor"
+		},
+		"f": {
+			"item": "minecraft:polished_diorite"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_horse_armor",
+		"count": 1
+	},
+	"group": "horse_armor"
+}

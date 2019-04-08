@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a ",
+		"b ",
+		"cd"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:string"
+		},
+		"b": {
+			"item": "minecraft:flint"
+		},
+		"c": {
+			"item": "minecraft:polished_diorite"
+		},
+		"d": {
+			"tag": "minecraft:coal"
+		}
+	},
+	"result": {
+		"item": "minecraft:flint_and_steel",
+		"count": 1
+	}
+}

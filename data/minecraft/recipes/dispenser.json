@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone"
+		},
+		"b": {
+			"item": "minecraft:polished_diorite"
+		},
+		"c": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:dispenser",
+		"count": 1
+	}
+}
