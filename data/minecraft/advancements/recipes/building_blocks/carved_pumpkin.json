@@ -1,0 +1,19 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:jack_o_lantern"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:carved_pumpkin"
+		]
+	}
+}

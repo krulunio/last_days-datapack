@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:end_stone_bricks"
+    ]
+  },
+  "criteria": {
+    "has_end_stone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:end_stone"
+          }
+        ]
+      }
+    }
+  }
+}

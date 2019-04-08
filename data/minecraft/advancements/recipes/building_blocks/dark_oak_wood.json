@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:dark_oak_wood"
+    ]
+  },
+  "criteria": {
+    "has_log": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dark_oak_log"
+          }
+        ]
+      }
+    }
+  }
+}

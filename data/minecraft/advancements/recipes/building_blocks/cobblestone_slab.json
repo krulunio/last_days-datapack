@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:cobblestone_slab"
+    ]
+  },
+  "criteria": {
+    "has_cobblestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cobblestone"
+          }
+        ]
+      }
+    }
+  }
+}

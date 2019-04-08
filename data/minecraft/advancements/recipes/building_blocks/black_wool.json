@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:black_wool"
+    ]
+  },
+  "criteria": {
+    "has_white_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:white_wool"
+          }
+        ]
+      }
+    }
+  }
+}

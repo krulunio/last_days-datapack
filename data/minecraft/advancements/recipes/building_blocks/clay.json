@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:clay"
+    ]
+  },
+  "criteria": {
+    "has_clay_ball": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:clay_ball"
+          }
+        ]
+      }
+    }
+  }
+}

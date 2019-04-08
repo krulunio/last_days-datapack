@@ -1,0 +1,19 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "minecraft:concrete_powder"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:blue_concrete_powder"
+		]
+	}
+}

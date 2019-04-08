@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:cracked_stone_bricks"
+    ]
+  },
+  "criteria": {
+    "has_stone_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stone_bricks"
+          }
+        ]
+      }
+    }
+  }
+}

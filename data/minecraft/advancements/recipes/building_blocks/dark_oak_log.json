@@ -1,0 +1,22 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:stone"
+					},
+					{
+						"item": "minecraft:birch_log"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:dark_oak_log"
+		]
+	}
+}

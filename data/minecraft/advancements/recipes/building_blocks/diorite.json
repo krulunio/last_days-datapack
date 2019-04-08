@@ -1,0 +1,25 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:iron_ingot"
+					},
+					{
+						"item": "minecraft:redstone"
+					},
+					{
+						"item": "minecraft:string"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:diorite"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:cyan_stained_glass_pane"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:chiseled_stone_bricks"
+		]
+	}
+}
