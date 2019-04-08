@@ -1,0 +1,1 @@
+scoreboard players set @e[team=machine] powered 0

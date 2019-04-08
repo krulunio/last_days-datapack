@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ minecraft:diamond_block run teleport @s ~ -200 ~

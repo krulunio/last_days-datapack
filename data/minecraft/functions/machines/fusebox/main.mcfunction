@@ -1,0 +1,1 @@
+execute as @e[name="fusebox", nbt={NoAI: 1b}] at @s run function minecraft:machines/fusebox/check_structure

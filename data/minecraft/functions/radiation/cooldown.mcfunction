@@ -1,0 +1,1 @@
+scoreboard players remove @a[scores={Radiation=1..}] Radiation 1

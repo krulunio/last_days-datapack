@@ -1,0 +1,21 @@
+execute as @s[nbt={Inventory:[{Slot: 100b, id:"minecraft:leather_boots"}]}] run scoreboard players remove @s stopped_rad 1
+execute as @s[nbt={Inventory:[{Slot: 101b, id:"minecraft:leather_leggings"}]}] run scoreboard players remove @s stopped_rad 2
+execute as @s[nbt={Inventory:[{Slot: 102b, id:"minecraft:leather_chestplate"}]}] run scoreboard players remove @s stopped_rad 3
+execute as @s[nbt={Inventory:[{Slot: 103b, id:"minecraft:leather_helmet"}]}] run scoreboard players remove @s stopped_rad 4
+execute as @s[nbt={Inventory:[{Slot: 100b, id:"minecraft:golden_boots"}]}] run scoreboard players remove @s stopped_rad 5
+execute as @s[nbt={Inventory:[{Slot: 101b, id:"minecraft:golden_leggings"}]}] run scoreboard players remove @s stopped_rad 10
+execute as @s[nbt={Inventory:[{Slot: 102b, id:"minecraft:golden_chestplate"}]}] run scoreboard players remove @s stopped_rad 15
+execute as @s[nbt={Inventory:[{Slot: 103b, id:"minecraft:golden_helmet"}]}] run scoreboard players remove @s stopped_rad 20
+execute as @s[nbt={Inventory:[{Slot: 100b, id:"minecraft:chain_boots"}]}] run scoreboard players remove @s stopped_rad 3
+execute as @s[nbt={Inventory:[{Slot: 101b, id:"minecraft:chain_leggings"}]}] run scoreboard players remove @s stopped_rad 6
+execute as @s[nbt={Inventory:[{Slot: 102b, id:"minecraft:chain_chestplate"}]}] run scoreboard players remove @s stopped_rad 9
+execute as @s[nbt={Inventory:[{Slot: 103b, id:"minecraft:chain_helmet"}]}] run scoreboard players remove @s stopped_rad 12
+execute as @s[nbt={Inventory:[{Slot: 100b, id:"minecraft:iron_boots"}]}] run scoreboard players remove @s stopped_rad 2
+execute as @s[nbt={Inventory:[{Slot: 101b, id:"minecraft:iron_leggings"}]}] run scoreboard players remove @s stopped_rad 4
+execute as @s[nbt={Inventory:[{Slot: 102b, id:"minecraft:iron_chestplate"}]}] run scoreboard players remove @s stopped_rad 6
+execute as @s[nbt={Inventory:[{Slot: 103b, id:"minecraft:iron_helmet"}]}] run scoreboard players remove @s stopped_rad 8
+execute as @s[nbt={Inventory:[{Slot: 100b, id:"minecraft:diamond_boots"}]}] run scoreboard players remove @s stopped_rad 5
+execute as @s[nbt={Inventory:[{Slot: 101b, id:"minecraft:diamond_leggings"}]}] run scoreboard players remove @s stopped_rad 10
+execute as @s[nbt={Inventory:[{Slot: 102b, id:"minecraft:diamond_chestplate"}]}] run scoreboard players remove @s stopped_rad 15
+execute as @s[nbt={Inventory:[{Slot: 103b, id:"minecraft:diamond_helmet"}]}] run scoreboard players remove @s stopped_rad 20
+execute as @s[scores={stopped_rad=1..}] run function minecraft:radiation/armor

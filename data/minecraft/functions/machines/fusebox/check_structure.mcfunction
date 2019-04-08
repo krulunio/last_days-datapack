@@ -1,0 +1,1 @@
+execute as @e[name="fusebox", nbt={NoAI: 1b}] at @s unless block ~ ~ ~ minecraft:gray_wool run teleport @s ~ -200 ~

@@ -1,0 +1,1 @@
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:golden_helmet"}}] run function minecraft:crafting_repairing/hazmat_helmet2

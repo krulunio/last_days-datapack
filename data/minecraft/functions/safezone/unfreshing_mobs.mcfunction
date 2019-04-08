@@ -1,0 +1,2 @@
+execute as @e[team=hostile_undead] unless entity @s[scores={fresh_spawn=1}] run scoreboard players set @s fresh_spawn 1
+execute as @e[team=hostile_normal] unless entity @s[scores={fresh_spawn=1}] run scoreboard players set @s fresh_spawn 1

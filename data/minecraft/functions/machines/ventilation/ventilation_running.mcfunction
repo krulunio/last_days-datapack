@@ -1,0 +1,1 @@
+scoreboard players set @s[distance=..5] stopped_rad 0

@@ -1,0 +1,1 @@
+execute at @e[name="ventilation", nbt={NoAI: 1b}] as @e[distance=0] unless block ~ ~ ~ #minecraft:ventilation run teleport @s ~ -200 ~

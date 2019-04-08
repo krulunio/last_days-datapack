@@ -1,0 +1,2 @@
+function machines/golems/no_normal_golem
+execute at @e[type=minecraft:item_frame, nbt={Item: {id: "minecraft:lime_dye"}}] as @e[distance=0, type=minecraft:item_frame] if entity @p[distance=..2, nbt={Inventory: [{Slot: -106b, id: "minecraft:iron_hoe"}]}] run function machines/golems/golem_choice

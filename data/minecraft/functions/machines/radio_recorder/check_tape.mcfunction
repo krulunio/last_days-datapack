@@ -1,0 +1,2 @@
+execute if entity @e[distance=..1.5, limit=1, nbt={Item: {id: "minecraft:magenta_dye", Count: 1b}}] run function machines/radio_recorder/use_tape
+execute if entity @e[distance=..1.5, limit=1, nbt={Item: {id: "minecraft:magenta_wool", Count: 1b}}] run function machines/radio_recorder/use_tape2

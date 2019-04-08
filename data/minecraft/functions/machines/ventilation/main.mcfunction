@@ -1,0 +1,1 @@
+function minecraft:machines/ventilation/check_structure

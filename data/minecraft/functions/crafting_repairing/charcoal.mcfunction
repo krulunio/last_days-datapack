@@ -1,0 +1,3 @@
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:iron_pickaxe"}}] run function minecraft:crafting_repairing/charcoal2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:iron_axe"}}] run function minecraft:crafting_repairing/charcoal2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:golden_pickaxe"}}] run function minecraft:crafting_repairing/charcoal2

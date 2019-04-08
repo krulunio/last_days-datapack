@@ -1,0 +1,9 @@
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_pickaxe"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_axe"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_hoe"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_shovel"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_sword"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_helmet"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_chestplate"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_leggings"}}] run function minecraft:crafting_repairing/diamond2
+execute as @e[limit=1, distance=..0.7, type=minecraft:item_frame, nbt={Item: {id: "minecraft:diamond_boots"}}] run function minecraft:crafting_repairing/diamond2
