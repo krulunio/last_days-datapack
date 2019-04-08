@@ -1,0 +1,2 @@
+execute as @a[nbt={Inventory:[{Slot: 100b, id:"minecraft:golden_boots"}, {Slot: 101b, id:"minecraft:golden_leggings"}, {Slot: 102b, id:"minecraft:golden_chestplate"}, {Slot: 103b, id:"minecraft:golden_helmet"}]}] run effect give @s minecraft:fire_resistance 1 0 true
+execute as @a[nbt={Inventory:[{Slot: 100b, id:"minecraft:diamond_boots"}, {Slot: 101b, id:"minecraft:diamond_leggings"}, {Slot: 102b, id:"minecraft:diamond_chestplate"}, {Slot: 103b, id:"minecraft:diamond_helmet"}]}] run effect give @s minecraft:fire_resistance 2 0 true

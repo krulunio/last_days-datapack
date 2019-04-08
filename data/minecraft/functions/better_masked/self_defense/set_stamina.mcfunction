@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:villager] unless score @s combat_stamina matches 0.. run scoreboard players set @s combat_stamina 0

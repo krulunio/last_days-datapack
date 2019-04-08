@@ -1,0 +1,4 @@
+data merge entity @e[limit=1, type=minecraft:skeleton, nbt=!{ArmorItems:[ {},{},{},{id: "minecraft:stone_button"} ] }] {ArmorDropChances:[1.0f,1.0f,1.0f,0.0f], ArmorItems:[{},{},{},{Count: 1b, id:"minecraft:stone_button" }]}
+data merge entity @e[limit=1, type=minecraft:stray, nbt=!{ArmorItems:[ {},{},{},{id: "minecraft:stone_button"} ] }] {ArmorDropChances:[1.0f,1.0f,1.0f,0.0f], ArmorItems:[{},{},{},{Count: 1b, id:"minecraft:stone_button" }]}
+data merge entity @e[limit=1, type=minecraft:zombie, nbt=!{ArmorItems:[ {},{},{},{id: "minecraft:stone_button"} ] }] {ArmorDropChances:[1.0f,1.0f,1.0f,0.0f], ArmorItems:[{},{},{},{Count: 1b, id:"minecraft:stone_button" }]}
+data merge entity @e[limit=1, type=minecraft:zombie_villager, nbt=!{ArmorItems:[ {},{},{},{id: "minecraft:stone_button"} ] }] {ArmorDropChances:[1.0f,1.0f,1.0f,0.0f], ArmorItems:[{},{},{},{Count: 1b, id:"minecraft:stone_button" }]}
