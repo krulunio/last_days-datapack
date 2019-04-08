@@ -5,9 +5,6 @@
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:stick"
-					},
-					{
 						"item": "minecraft:white_wool"
 					}
 				]
