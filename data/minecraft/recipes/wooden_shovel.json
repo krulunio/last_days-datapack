@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"s",
+		"s"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:wooden_shovel",
+		"count": 1
+	},
+	"group": "wooden_tools"
+}

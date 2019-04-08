@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa",
+		"aa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:oak_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:white_wool",
+		"count": 3
+	},
+	"group": "white_wool"
+}

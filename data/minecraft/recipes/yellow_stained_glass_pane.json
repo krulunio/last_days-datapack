@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"aaa",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:string"
+		}
+	},
+	"result": {
+		"item": "minecraft:yellow_stained_glass_pane",
+		"count": 8
+	}
+}

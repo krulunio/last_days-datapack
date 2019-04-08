@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" a",
+		"a "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:wooden_sword",
+		"count": 1
+	},
+	"group": "sword"
+}

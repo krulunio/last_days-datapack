@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"eee",
+		"eee",
+		"eee"
+	],
+	"key": {
+		"e": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "minecraft:yellow_wool",
+		"count": 1
+	}
+}

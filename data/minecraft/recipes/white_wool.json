@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa",
+		"aa"
+	],
+	"key": {
+		"a": {
+			"tag": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:white_wool",
+		"count": 1
+	},
+	"group": "white_wool"
+}

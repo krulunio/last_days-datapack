@@ -1,0 +1,6 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:glass",
+	"result": "minecraft:white_stained_glass",
+	"experience": 0.2
+}

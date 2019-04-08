@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a ",
+		" b"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:gravel"
+		},
+		"b": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:wooden_axe",
+		"count": 1
+	},
+	"group": "wooden_tools"
+}

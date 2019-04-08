@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa",
+		" a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:wooden_hoe",
+		"count": 1
+	},
+	"group": "wooden_tools"
+}
