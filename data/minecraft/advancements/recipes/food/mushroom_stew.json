@@ -1,0 +1,46 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:mushroom_stew"
+    ]
+  },
+  "criteria": {
+    "has_bowl": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bowl"
+          }
+        ]
+      }
+    },
+    "has_brown_mushroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brown_mushroom"
+          }
+        ]
+      }
+    },
+    "has_red_mushroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_mushroom"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_bowl",
+      "has_brown_mushroom",
+      "has_red_mushroom"
+    ]
+  ]
+}

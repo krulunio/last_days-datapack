@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:written_book",
+						"nbt": "{display:{Lore:[\"MK-38 HORS Armor\"]}}"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:diamond_horse_armor"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:light_gray_dye_from_white_tulip"
+    ]
+  },
+  "criteria": {
+    "has_red_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:white_tulip"
+          }
+        ]
+      }
+    }
+  }
+}

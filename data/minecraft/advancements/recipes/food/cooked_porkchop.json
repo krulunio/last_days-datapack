@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:cooked_porkchop"
+    ]
+  },
+  "criteria": {
+    "has_porkchop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:porkchop"
+          }
+        ]
+      }
+    }
+  }
+}

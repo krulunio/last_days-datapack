@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:light_gray_dye_from_oxeye_daisy"
+    ]
+  },
+  "criteria": {
+    "has_red_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:oxeye_daisy"
+          }
+        ]
+      }
+    }
+  }
+}

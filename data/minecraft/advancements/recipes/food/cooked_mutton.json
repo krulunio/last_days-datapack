@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:cooked_mutton"
+    ]
+  },
+  "criteria": {
+    "has_mutton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:mutton"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:written_book",
+						"nbt": "{display:{Lore:[\"Extraction and compression of materials\"]}}"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:coal"
+		]
+	}
+}

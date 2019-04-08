@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:yellow_dye_from_sunflower"
+    ]
+  },
+  "criteria": {
+    "has_double_plant": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:sunflower"
+          }
+        ]
+      }
+    }
+  }
+}

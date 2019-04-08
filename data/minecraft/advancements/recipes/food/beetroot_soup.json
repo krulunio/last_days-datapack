@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:beetroot_soup"
+    ]
+  },
+  "criteria": {
+    "has_beetroot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:beetroot"
+          }
+        ]
+      }
+    }
+  }
+}

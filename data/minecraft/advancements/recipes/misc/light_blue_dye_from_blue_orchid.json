@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:light_blue_dye_from_blue_orchid"
+    ]
+  },
+  "criteria": {
+    "has_red_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blue_orchid"
+          }
+        ]
+      }
+    }
+  }
+}

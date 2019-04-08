@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:cooked_chicken"
+    ]
+  },
+  "criteria": {
+    "has_chicken": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:chicken"
+          }
+        ]
+      }
+    }
+  }
+}
