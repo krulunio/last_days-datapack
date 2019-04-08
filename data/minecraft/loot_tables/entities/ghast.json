@@ -1,0 +1,193 @@
+{
+    "pools": [
+        {
+            "conditions": [
+				{
+					"condition": "killed_by_player"
+				}
+			],
+			"rolls": {
+				"min": 5,
+				"max": 8
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:redstone",
+					"weight": 7,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:black_wool",
+					"weight": 7,
+					"functions": [
+						{
+							"function": "iron_ingot",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:string",
+					"weight": 7,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:black_wool",
+					"weight": 7,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:magma_block",
+					"weight": 7,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:light_gray_dye",
+					"weight": 7,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:flint",
+					"weight": 7,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diorite",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:light_gray_wool",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:green_wool",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:ghast_tear",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:fire_charge",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:purple_dye",
+					"weight": 3,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:lapis_lazuli",
+					"weight": 3,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:lime_dye",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:cactus_green",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:pink_dye",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:light_blue_dye",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:lapis_ore",
+					"weight": 1
+				}
+			]
+		}
+    ]
+}

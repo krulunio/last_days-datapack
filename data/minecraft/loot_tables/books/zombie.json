@@ -1,0 +1,91 @@
+{
+    "pools": [
+        {
+            "conditions": [
+				{
+					"condition": "killed_by_player"
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Extraction and compression of materials\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Firearm Basics\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Advanced Tools\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Metal Armor\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Quick Water Treating\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"When Doctor Isn't Home\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Science For 7th Graders\"]}"
+						}
+					],
+					"weight": 1
+				}
+			]
+		}
+    ]
+}

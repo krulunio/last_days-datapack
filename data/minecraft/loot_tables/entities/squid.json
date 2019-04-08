@@ -1,0 +1,56 @@
+{
+    "pools": [
+        {
+            "conditions": [
+				{
+					"condition": "killed_by_player"
+				}
+			],
+			"rolls": {
+				"min": 2,
+				"max": 4
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:black_wool",
+					"weight": 6
+				},
+				{
+					"type": "item",
+					"name": "minecraft:feather",
+					"weight": 6
+				},
+				{
+					"type": "item",
+					"name": "minecraft:ink_sac",
+					"weight": 6
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glowstone_dust",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:lapis_lazuli",
+					"weight": 3,
+					"functions": [
+						{
+							"function": "looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:lapis_ore",
+					"weight": 1
+				}
+			]
+		}
+    ]
+}

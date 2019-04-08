@@ -1,0 +1,102 @@
+{
+    "pools": [
+        {
+            "conditions": [
+				{
+					"condition": "killed_by_player"
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Cloning Technology\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"MK-235 Armor\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Hazmat Suit\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Uranium-powered Tools\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"HORS Hazmat Equipment\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"MK-38 HORS Armor\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Redstone For Pros\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Science For 7th Graders\"]}"
+						}
+					],
+					"weight": 1
+				}
+			]
+		}
+    ]
+}

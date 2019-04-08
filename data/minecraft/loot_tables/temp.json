@@ -1,0 +1,289 @@
+{
+    "pools": [
+        {
+            "conditions": [
+				{
+					"condition": "killed_by_player"
+				}
+			],
+			"rolls": 1,
+			"entries": [
+/*				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Building Basics\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Extraction and compression of materials\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Industrial Architecture\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+*/				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"SUBmerge Tech\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+/*				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Cloning Technology\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"MK-235 Armor\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Firearm Basics\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Advanced Tools\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Metal Armor\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Hazmat Suit\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Uranium-powered Tools\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+*/				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Basic Transportation Systems\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Advanced Transportation Systems\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Scrap HORS Armor\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+/*				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"HORS Hazmat Equipment\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"MK-38 HORS Armor\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Quick Water Treating\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"When Doctor Isn't Home\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Redstone For Dummies\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+*/				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Reinforcing Doors\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Furnishing Tips\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+/*				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Redstone For Pros\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Electrician's Cheat Sheet\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Power Plant Documentation\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				},
+*/				{
+					"type": "item",
+					"name": "minecraft:written_book",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{title:\"Technology and You\", author:\"dr. Kru\", display:{ Lore: [\"Science For 7th Graders\"]}, pages:[\"aaa\"]}"
+						}
+					],
+					"weight": 1
+				}
+			]
+		}
+    ]
+}
