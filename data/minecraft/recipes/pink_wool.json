@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" a ",
+		"bcd"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:redstone"
+		},
+		"b": {
+			"item": "minecraft:cactus_green"
+		},
+		"c": {
+			"item": "minecraft:cyan_wool"
+		},
+		"d": {
+			"item": "minecraft:pink_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:pink_wool",
+		"count": 1
+	}
+}

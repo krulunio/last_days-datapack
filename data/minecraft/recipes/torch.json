@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:cyan_dye"
+		},
+		"b": {
+			"item": "minecraft:flint"
+		},
+		"c": {
+			"tag": "minecraft:coal"
+		}
+	},
+	"result": {
+		"item": "minecraft:torch",
+		"count": 3
+	}
+}

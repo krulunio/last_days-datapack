@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"abc",
+		" d ",
+		"abc"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:rose_red"
+		},
+		"b": {
+			"item": "minecraft:rail"
+		},
+		"c": {
+			"item": "minecraft:iron_ingot"
+		},
+		"d": {
+			"item": "minecraft:polished_diorite"
+		}
+	},
+	"result": {
+		"item": "minecraft:powered_rail",
+		"count": 2
+	}
+}

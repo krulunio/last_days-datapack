@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n ",
+		"ps",
+		"a "
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:orange_dye"
+		},
+		"p": {
+			"item": "minecraft:gray_dye"
+		},
+		"a": {
+			"item": "minecraft:white_wool"
+		},
+		"s": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:red_wool",
+		"count": 1
+	}
+}

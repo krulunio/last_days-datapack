@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"a",
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:acacia_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:purple_dye",
+		"count": 3
+	}
+}

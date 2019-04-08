@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aba",
+		"bcb",
+		"aba"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:white_wool"
+		},
+		"b": {
+			"item": "minecraft:gunpowder"
+		},
+		"c": {
+			"item": "minecraft:fire_charge"
+		}
+	},
+	"result": {
+		"item": "minecraft:tnt",
+		"count": 1
+	}
+}

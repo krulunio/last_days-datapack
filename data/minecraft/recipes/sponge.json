@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sns",
+		"fsf",
+		"sns"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:white_wool"
+		},
+		"n": {
+			"item": "minecraft:bucket"
+		},
+		"f": {
+			"item": "minecraft:flint"
+		}
+	},
+	"result": {
+		"item": "minecraft:sponge",
+		"count": 1
+	}
+}

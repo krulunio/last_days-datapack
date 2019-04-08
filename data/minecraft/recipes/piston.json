@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" z ",
+		" x ",
+		"abc"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:cyan_wool"
+		},
+		"b": {
+			"item": "minecraft:sign"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		},
+		"z": {
+			"item": "minecraft:stone_slab"
+		},
+		"x": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:piston",
+		"count": 1
+	}
+}

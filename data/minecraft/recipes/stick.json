@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"tag": "minecraft:wood_for_sticks"
+		}
+	},
+	"result": {
+		"item": "minecraft:stick",
+		"count": 8
+	},
+	"group": "stick"
+}

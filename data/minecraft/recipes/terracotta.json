@@ -1,0 +1,6 @@
+{
+	"type": "smelting",
+	"ingredient": {"item": "minecraft:orange_terracotta"},
+	"result": "minecraft:terracotta",
+	"experience": 0.4
+}

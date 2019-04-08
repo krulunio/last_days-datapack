@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n",
+		"p",
+		"d"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:iron_nugget"
+		},
+		"p": {
+			"item": "minecraft:stone"
+		},
+		"d": {
+			"item": "minecraft:diorite"
+		}
+	},
+	"result": {
+		"item": "minecraft:polished_diorite",
+		"count": 1
+	}
+}

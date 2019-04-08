@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sg"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:smooth_stone"
+		},
+		"g": {
+			"item": "minecraft:granite"
+		}
+	},
+	"result": {
+		"item": "minecraft:polished_granite",
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aba",
+		" c "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:redstone_torch"
+		},
+		"b": {
+			"item": "minecraft:redstone"
+		},
+		"c": {
+			"item": "minecraft:cyan_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:repeater",
+		"count": 1
+	}
+}

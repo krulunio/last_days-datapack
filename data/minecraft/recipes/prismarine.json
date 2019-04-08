@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"bab",
+		"aaa",
+		"bab"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:prismarine_shard"
+		},
+		"b": {
+			"item": "minecraft:prismarine_crystals"
+		}
+	},
+	"result": {
+		"item": "minecraft:prismarine",
+		"count": 2
+	},
+	"group": "prismarine"
+}

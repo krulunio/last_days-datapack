@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:sugar_cane"
+		}
+	},
+	"result": {
+		"item": "minecraft:stick",
+		"count": 1
+	},
+	"group": "stick"
+}

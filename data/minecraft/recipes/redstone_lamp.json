@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"cb ",
+		"bab",
+		" bc"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:black_terracotta"
+		},
+		"b": {
+			"item": "minecraft:glowstone_dust"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:redstone_lamp",
+		"count": 1
+	}
+}

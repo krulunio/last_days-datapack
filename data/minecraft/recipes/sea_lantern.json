@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"bab",
+		"aca",
+		"bab"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:cyan_dye"
+		},
+		"b": {
+			"item": "#minecraft:coal"
+		},
+		"c": {
+			"item": "minecraft:prismarine"
+		}
+	},
+	"result": {
+		"item": "minecraft:sea_lantern",
+		"count": 1
+	}
+}

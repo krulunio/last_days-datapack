@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a ",
+		"bc",
+		"d "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:lime_stained_glass_pane"
+		},
+		"b": {
+			"item": "minecraft:white_carpet"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		},
+		"d": {
+			"item": "minecraft:flint"
+		}
+	},
+	"result": {
+		"item": "minecraft:sign",
+		"count": 1
+	}
+}

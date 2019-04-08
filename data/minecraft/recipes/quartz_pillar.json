@@ -1,0 +1,18 @@
+i{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ab"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:quartz_block"
+		},
+		"b": {
+			"item": "minecraft:cyan_stained_glass_pane"
+		}
+	},
+	"result": {
+		"item": "minecraft:quartz_pillar",
+		"count": 1
+	}
+}

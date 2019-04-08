@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aba",
+		"aba",
+		"aba"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:paper"
+		},
+		"b": {
+			"item": "minecraft:sandstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:white_concrete_powder",
+		"count": 3
+	}
+}

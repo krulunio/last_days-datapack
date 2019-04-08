@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a ",
+		"bc",
+		"de"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:white_wool"
+		},
+		"b": {
+			"item": "minecraft:polished_diorite"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		},
+		"d": {
+			"item": "minecraft:lime_dye"
+		},
+		"e": {
+			"tag": "minecraft:coal"
+		}
+	},
+	"result": {
+		"item": "minecraft:pumpkin_pie",
+		"count": 1
+	}
+}

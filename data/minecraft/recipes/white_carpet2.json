@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:white_carpet",
+		"count": 9
+	}
+}

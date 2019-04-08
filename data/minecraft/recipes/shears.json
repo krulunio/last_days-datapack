@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"w s",
+		" w ",
+		"w s"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:stone_slab"
+		},
+		"s": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:shears",
+		"count": 1
+	}
+}

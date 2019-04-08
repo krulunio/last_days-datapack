@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a b"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:purple_terracotta"
+		},
+		"b": {
+			"item": "minecraft:brown_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:purple_wool",
+		"count": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ggg",
+		"ggg",
+		"ggg"
+	],
+	"key": {
+		"g": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:redstone_ore",
+		"count": 1
+	}
+}
