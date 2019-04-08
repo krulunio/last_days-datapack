@@ -1,0 +1,22 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:lime_stained_glass_pane"
+					},
+					{
+						"item": "minecraft:quartz"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:daylight_detector"
+		]
+	}
+}

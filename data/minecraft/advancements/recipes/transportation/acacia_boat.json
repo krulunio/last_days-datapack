@@ -1,0 +1,15 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:acacia_boat"
+    ]
+  },
+  "criteria": {
+    "in_water": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:water"
+      }
+    }
+  }
+}
