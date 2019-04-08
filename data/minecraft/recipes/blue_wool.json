@@ -1,0 +1,41 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"123",
+		"456",
+		"789"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:redstone"
+		},
+		"2": {
+			"item": "minecraft:gold_ingot"
+		},
+		"3": {
+			"item": "minecraft:cactus_green"
+		},
+		"4": {
+			"item": "minecraft:light_blue_terracotta"
+		},
+		"5": {
+			"item": "minecraft:white_wool"
+		},
+		"6": {
+			"item": "minecraft:sign"
+		},
+		"7": {
+			"item": "minecraft:rose_red"
+		},
+		"8": {
+			"item": "minecraft:lime_dye"
+		},
+		"9": {
+			"item": "minecraft:cyan_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:blue_wool",
+		"count": 1
+	}
+}

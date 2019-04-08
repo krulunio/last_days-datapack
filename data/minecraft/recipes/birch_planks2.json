@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stick"
+		},
+		"b": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:birch_planks",
+		"count": 1
+	},
+	"group": "birch_planks"
+}

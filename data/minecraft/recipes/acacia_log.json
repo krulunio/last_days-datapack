@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"wsw",
+		"waw",
+		"wsw"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_block"
+		},
+		"w": {
+			"item": "minecraft:redstone"
+		},
+		"s": {
+			"item": "minecraft:string"
+		}
+	},
+	"result": {
+		"item": "minecraft:acacia_log",
+		"count": 4
+	}
+}

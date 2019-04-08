@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:light_gray_bed"
+		}
+	},
+	"result": {
+		"item": "minecraft:cyan_bed",
+		"count": 1
+	},
+	"group": "bed"
+}

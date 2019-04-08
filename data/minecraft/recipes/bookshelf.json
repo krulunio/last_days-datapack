@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ggg",
+		" c "
+	],
+	"key": {
+		"c": {
+			"item": "minecraft:white_wool"
+		},
+		"g": {
+			"item": "minecraft:book"
+		}
+	},
+	"result": {
+		"item": "minecraft:bookshelf",
+		"count": 1
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aa ",
+		"ab ",
+		" cd"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:cobblestone_slab"
+		},
+		"b": {
+			"item": "minecraft:string"
+		},
+		"c": {
+			"item": "minecraft:stone_button"
+		},
+		"d": {
+			"item": "minecraft:stone_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:bow",
+		"count": 1
+	}
+}

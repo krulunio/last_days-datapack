@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" s ",
+		"sss",
+		" s "
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:acacia_planks",
+		"count": 3
+	}
+}

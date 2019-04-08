@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:dead_fire_coral"
+		}
+	},
+	"result": {
+		"item": "minecraft:bowl",
+		"count": 1
+	}
+}

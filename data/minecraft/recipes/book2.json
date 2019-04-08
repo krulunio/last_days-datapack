@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:writable_book"
+		}
+	},
+	"result": {
+		"item": "minecraft:book",
+		"count": 1
+	},
+	"group": "book"
+}

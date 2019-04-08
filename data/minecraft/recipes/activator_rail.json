@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:redstone_torch"
+		},
+		"b": {
+			"item": "minecraft:redstone"
+		},
+		"c": {
+			"item": "minecraft:rail"
+		}
+	},
+	"result": {
+		"item": "minecraft:activator_rail",
+		"count": 1
+	}
+}

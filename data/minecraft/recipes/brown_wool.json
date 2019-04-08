@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"n",
+		"c",
+		"n"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:white_wool"
+		},
+		"c": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:brown_wool",
+		"count": 1
+	}
+}

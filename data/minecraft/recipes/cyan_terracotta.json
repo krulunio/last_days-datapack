@@ -1,0 +1,32 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" ab",
+		"cdc",
+		" ef"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone"
+		},
+		"b": {
+			"item": "minecraft:cyan_dye"
+		},
+		"c": {
+			"item": "minecraft:lime_dye"
+		},
+		"d": {
+			"item": "minecraft:spider_eye"
+		},
+		"e": {
+			"item": "minecraft:magenta_wool"
+		},
+		"f": {
+			"item": "minecraft:orange_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:cyan_terracotta",
+		"count": 1
+	}
+}

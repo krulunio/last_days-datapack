@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a a",
+		"a a",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:cauldron",
+		"count": 1
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a ",
+		"bc",
+		"de"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone"
+		},
+		"b": {
+			"item": "minecraft:lime_dye"
+		},
+		"c": {
+			"item": "minecraft:sign"
+		},
+		"d": {
+			"item": "minecraft:polished_diorite"
+		},
+		"e": {
+			"tag": "minecraft:coal"
+		}
+	},
+	"result": {
+		"item": "minecraft:clock",
+		"count": 1
+	}
+}

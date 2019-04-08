@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" b ",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:cobblestone_slab"
+		},
+		"b": {
+			"item": "minecraft:blaze_rod"
+		}
+	},
+	"result": {
+		"item": "minecraft:brewing_stand",
+		"count": 1
+	}
+}

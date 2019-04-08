@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"abc",
+		"ded",
+		"cba"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:beetroot"
+		},
+		"b": {
+			"item": "minecraft:emerald"
+		},
+		"c": {
+			"item": "minecraft:baked_potato"
+		},
+		"d": {
+			"item": "minecraft:cookie"
+		},
+		"e": {
+			"item": "minecraft:bread"
+		}
+	},
+	"result": {
+		"item": "minecraft:cake",
+		"count": 1
+	}
+}

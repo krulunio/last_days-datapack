@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sns",
+		"wsw",
+		"sns"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:birch_log"
+		},
+		"n": {
+			"item": "minecraft:iron_nugget"
+		},
+		"w": {
+			"item": "minecraft:stone"
+		}
+	},
+	"result": {
+		"item": "minecraft:dark_oak_log",
+		"count": 10
+	}
+}

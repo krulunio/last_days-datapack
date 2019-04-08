@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sns",
+		"nsn",
+		"sns"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:spruce_planks"
+		},
+		"n": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:birch_planks",
+		"count": 6
+	},
+	"group": "birch_planks"
+}

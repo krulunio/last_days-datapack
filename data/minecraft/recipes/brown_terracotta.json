@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"gdg",
+		"dbd",
+		"gdg"
+	],
+	"key": {
+		"b": {
+			"item": "minecraft:iron_nugget"
+		},
+		"g": {
+			"item": "minecraft:stick"
+		},
+		"d": {
+			"item": "minecraft:birch_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:brown_terracotta",
+		"count": 4
+	}
+}

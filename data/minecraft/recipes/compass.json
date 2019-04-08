@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:glass_pane"
+		},
+		"b": {
+			"item": "minecraft:redstone"
+		},
+		"c": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:compass",
+		"count": 1
+	}
+}

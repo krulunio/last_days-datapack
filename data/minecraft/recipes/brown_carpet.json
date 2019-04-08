@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:blue_carpet"
+		}
+	},
+	"result": {
+		"item": "minecraft:brown_carpet",
+		"count": 1
+	},
+	"group": "carpet"
+}

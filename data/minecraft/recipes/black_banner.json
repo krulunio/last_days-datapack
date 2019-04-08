@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:red_banner"
+		}
+	},
+	"result": {
+		"item": "minecraft:black_banner",
+		"count": 1
+	},
+	"group": "banner"
+}

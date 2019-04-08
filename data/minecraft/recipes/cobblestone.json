@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ww",
+		"ww"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:cobblestone",
+		"count": 2
+	}
+}

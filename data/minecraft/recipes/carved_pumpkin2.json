@@ -1,0 +1,31 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"abc",
+		"def"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:string"
+		},
+		"b": {
+			"item": "minecraft:stone_button"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		},
+		"d": {
+			"item": "minecraft:sign"
+		},
+		"e": {
+			"item": "minecraft:black_wool"
+		},
+		"f": {
+			"item": "minecraft:note_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:carved_pumpkin",
+		"count": 1
+	}
+}

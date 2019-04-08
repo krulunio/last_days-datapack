@@ -1,0 +1,38 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"abc",
+		"ded",
+		"fgh"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:pink_dye"
+		},
+		"b": {
+			"item": "minecraft:polished_diorite"
+		},
+		"c": {
+			"item": "minecraft:cactus_green"
+		},
+		"d": {
+			"item": "minecraft:blaze_rod"
+		},
+		"e": {
+			"item": "minecraft:lime_dye"
+		},
+		"f": {
+			"item": "minecraft:cyan_dye"
+		},
+		"g": {
+			"item": "minecraft:stone"
+		},
+		"h": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:blue_terracotta",
+		"count": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:string"
+		},
+		"b": {
+			"item": "minecraft:andesite"
+		}
+	},
+	"result": {
+		"item": "minecraft:cobweb",
+		"count": 4
+	}
+}

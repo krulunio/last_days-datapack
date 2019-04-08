@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ab",
+		"cc"
+	],
+	"key": {
+		"a": {
+			"tag": "minecraft:wrench"
+		},
+		"b": {
+			"tag": "minecraft:pickaxe"
+		},
+		"c": {
+			"item": "minecraft:cobblestone"
+		}
+	},
+	"result": {
+		"item": "minecraft:crafting_table",
+		"count": 1
+	}
+}

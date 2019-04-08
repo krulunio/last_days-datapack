@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ncn",
+		"cac",
+		"nbn"
+	],
+	"key": {
+		"n": {
+			"item": "minecraft:redstone"
+		},
+		"c": {
+			"item": "minecraft:lever"
+		},
+		"b": {
+			"item": "minecraft:stone_button"
+		},
+		"a": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:cyan_wool",
+		"count": 1
+	}
+}

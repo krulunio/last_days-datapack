@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b",
+		"c"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_nugget"
+		},
+		"b": {
+			"item": "minecraft:flint"
+		},
+		"c": {
+			"item": "minecraft:feather"
+		}
+	},
+	"result": {
+		"item": "minecraft:arrow",
+		"count": 3
+	}
+}
