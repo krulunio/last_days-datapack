@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:technical/technical",
+	"criteria": {
+		"bed": {
+			"trigger": "minecraft:slept_in_bed",
+			"conditions": {
+				
+			}
+		}
+	},
+	"rewards":{
+		"function": "minecraft:sleeping"
+	}
+}

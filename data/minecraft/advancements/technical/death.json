@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:technical/technical",
+	"criteria": {
+		"death": {
+			"trigger": "minecraft:entity_killed_player",
+			"conditions": {
+				
+			}
+		}
+	},
+	"rewards":{
+		"function": "minecraft:death"
+	}
+}

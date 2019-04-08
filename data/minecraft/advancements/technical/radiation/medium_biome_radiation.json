@@ -1,0 +1,40 @@
+{
+	"criteria": {
+		"desert":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:desert"
+			}
+		},
+		"desert_hills":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:desert_hills"
+			}
+		},
+		"desert_lakes":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:desert_lakes"
+			}
+		},
+		"swamp":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:swamp"
+			}
+		},
+		"swamp_hills":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:swamp_hills"
+			}
+		}
+	},
+	"requirements":[
+		["desert", "desert_hills", "desert_lakes", "swamp", "swamp_hills"]
+	],
+	"rewards":{
+		"function": "minecraft:radiation/medium_biome"
+	}
+}

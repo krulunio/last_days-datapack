@@ -1,0 +1,52 @@
+{
+	"criteria": {
+		"badlands":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:badlands"
+			}
+		},
+		"badlands_plateau":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:badlands_plateau"
+			}
+		},
+		"modified_badlands_plateau":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:modified_badlands_plateau"
+			}
+		},
+		"eroded_badlands":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:eroded_badlands"
+			}
+		},
+		"wooded_badlands_plateau":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:wooded_badlands_plateau"
+			}
+		},
+		"modified_wooded_badlands_plateau":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:modified_wooded_badlands_plateau"
+			}
+		},
+		"nether":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:nether"
+			}
+		}
+	},
+	"requirements":[
+		["badlands", "badlands_plateau", "modified_badlands_plateau", "eroded_badlands", "wooded_badlands_plateau", "modified_wooded_badlands_plateau", "nether"]
+	],
+	"rewards":{
+		"function": "minecraft:radiation/high_biome"
+	}
+}

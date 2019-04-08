@@ -1,0 +1,40 @@
+{
+	"criteria": {
+		"stone_shore":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:stone_shore"
+			}
+		},
+		"gravelly_mountains":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:gravelly_mountains"
+			}
+		},
+		"modified_gravelly_mountains":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:modified_gravelly_mountains"
+			}
+		},
+		"shattered_savanna":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:shattered_savanna"
+			}
+		},
+		"shattered_savanna_plateau":{
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:shattered_savanna_plateau"
+			}
+		}
+	},
+	"requirements":[
+		["stone_shore", "gravelly_mountains", "modified_gravelly_mountains", "shattered_savanna", "shattered_savanna_plateau"]
+	],
+	"rewards":{
+		"function": "minecraft:radiation/low_biome"
+	}
+}

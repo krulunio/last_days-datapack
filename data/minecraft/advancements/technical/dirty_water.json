@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"drink_water": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"item": "minecraft:potion",
+					"potion": "water"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "minecraft:dirty_water"
+	}
+}
