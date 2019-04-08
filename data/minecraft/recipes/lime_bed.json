@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:magenta_bed"
+		}
+	},
+	"result": {
+		"item": "minecraft:lime_bed",
+		"count": 1
+	},
+	"group": "bed"
+}

@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sns",
+		"nsn",
+		"sns"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:stick"
+		},
+		"n": {
+			"item": "minecraft:dirt"
+		}
+	},
+	"result": {
+		"item": "minecraft:oak_log",
+		"count": 5
+	}
+}

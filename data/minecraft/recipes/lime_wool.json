@@ -1,0 +1,32 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" a ",
+		"bcd",
+		"efe"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_nugget"
+		},
+		"b": {
+			"item": "minecraft:cyan_wool"
+		},
+		"c": {
+			"item": "minecraft:lime_dye"
+		},
+		"d": {
+			"item": "minecraft:sign"
+		},
+		"e": {
+			"item": "minecraft:redstone"
+		},
+		"f": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:lime_wool",
+		"count": 1
+	}
+}

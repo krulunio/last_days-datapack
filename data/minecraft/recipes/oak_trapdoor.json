@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:stone_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:oak_trapdoor",
+		"count": 2
+	},
+	"group": "wooden_trapdoor"
+}

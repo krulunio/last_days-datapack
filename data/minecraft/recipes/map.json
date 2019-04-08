@@ -1,0 +1,32 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" a ",
+		"bcd",
+		"ef "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:string"
+		},
+		"b": {
+			"item": "minecraft:white_wool"
+		},
+		"c": {
+			"item": "minecraft:white_wool"
+		},
+		"d": {
+			"item": "minecraft:white_wool"
+		},
+		"e": {
+			"item": "minecraft:white_wool"
+		},
+		"f": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:map",
+		"count": 1
+	}
+}

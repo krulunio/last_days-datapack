@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:magenta_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:magenta_dye",
+		"count": 9
+	}
+}

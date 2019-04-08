@@ -1,0 +1,38 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ab ",
+		"cde",
+		"fgh"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:acacia_leaves"
+		},
+		"b": {
+			"item": "minecraft:pink_dye"
+		},
+		"c": {
+			"item": "minecraft:cyan_wool"
+		},
+		"d": {
+			"item": "minecraft:stone"
+		},
+		"e": {
+			"item": "minecraft:sign"
+		},
+		"f": {
+			"item": "minecraft:redstone"
+		},
+		"g": {
+			"item": "minecraft:rose_red"
+		},
+		"h": {
+			"item": "minecraft:lime_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:lime_terracotta",
+		"count": 1
+	}
+}

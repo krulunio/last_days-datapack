@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:orange_concrete"
+		}
+	},
+	"result": {
+		"item": "minecraft:magenta_concrete",
+		"count": 1
+	},
+	"group": "concrete"
+}

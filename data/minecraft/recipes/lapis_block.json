@@ -1,0 +1,35 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sns",
+		"123",
+		"aga"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:lapis_ore"
+		},
+		"g": {
+			"item": "minecraft:purple_terracotta"
+		},
+		"n": {
+			"item": "minecraft:iron_nugget"
+		},
+		"s": {
+			"item": "minecraft:gold_ingot"
+		},
+		"1": {
+			"item": "minecraft:green_wool"
+		},
+		"2": {
+			"item": "minecraft:lime_dye"
+		},
+		"3": {
+			"item": "minecraft:polished_diorite"
+		}
+	},
+	"result": {
+		"item": "minecraft:lapis_block",
+		"count": 1
+	}
+}

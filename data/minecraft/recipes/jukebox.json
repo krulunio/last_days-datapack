@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" c ",
+		"aba"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:redstone"
+		},
+		"b": {
+			"item": "minecraft:note_block"
+		},
+		"c": {
+			"item": "minecraft:lime_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:jukebox",
+		"count": 1
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a ",
+		"b ",
+		"cd"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:sign"
+		},
+		"b": {
+			"item": "minecraft:lime_dye"
+		},
+		"c": {
+			"item": "minecraft:white_wool"
+		},
+		"d": {
+			"tag": "minecraft:coal"
+		}
+	},
+	"result": {
+		"item": "minecraft:name_tag",
+		"count": 1
+	}
+}

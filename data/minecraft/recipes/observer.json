@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" a ",
+		"abc",
+		" a "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:redstone"
+		},
+		"b": {
+			"item": "minecraft:white_wool"
+		},
+		"c": {
+			"item": "minecraft:pink_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:observer",
+		"count": 1
+	}
+}

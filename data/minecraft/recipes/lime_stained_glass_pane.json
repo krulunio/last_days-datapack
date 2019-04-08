@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"bcb",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:glass_pane"
+		},
+		"b": {
+			"item": "minecraft:cyan_dye"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:lime_stained_glass_pane",
+		"count": 6
+	}
+}

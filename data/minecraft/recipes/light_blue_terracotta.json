@@ -1,0 +1,32 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" a ",
+		"bcd",
+		"ef "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_nugget"
+		},
+		"b": {
+			"item": "minecraft:orange_dye"
+		},
+		"c": {
+			"item": "minecraft:stick"
+		},
+		"d": {
+			"item": "minecraft:glass_pane"
+		},
+		"e": {
+			"item": "minecraft:light_blue_dye"
+		},
+		"f": {
+			"item": "minecraft:stone"
+		}
+	},
+	"result": {
+		"item": "minecraft:light_blue_terracotta",
+		"count": 1
+	}
+}

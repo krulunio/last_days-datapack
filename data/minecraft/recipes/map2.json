@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:filled_map"
+		}
+	},
+	"result": {
+		"item": "minecraft:map",
+		"count": 1
+	}
+}

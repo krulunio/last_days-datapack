@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"waw",
+		"aaa",
+		"waw"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:string"
+		},
+		"w": {
+			"item": "minecraft:acacia_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:jungle_log",
+		"count": 4
+	}
+}

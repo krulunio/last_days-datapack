@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"aaa",
+		"aaa",
+		"aaa"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:orange_tulip"
+		}
+	},
+	"result": {
+		"item": "minecraft:orange_terracotta",
+		"count": 1
+	}
+}

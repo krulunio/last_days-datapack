@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" z ",
+		"zxz",
+		"abc"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:orange_dye"
+		},
+		"b": {
+			"item": "minecraft:repeater"
+		},
+		"c": {
+			"item": "minecraft:redstone"
+		},
+		"z": {
+			"item": "minecraft:gray_dye"
+		},
+		"x": {
+			"item": "minecraft:white_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:note_block",
+		"count": 1
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a a",
+		"bcd"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:acacia_slab"
+		},
+		"b": {
+			"item": "minecraft:cyan_dye"
+		},
+		"c": {
+			"item": "minecraft:acacia_planks"
+		},
+		"d": {
+			"item": "minecraft:rose_red"
+		}
+	},
+	"result": {
+		"item": "minecraft:minecart",
+		"count": 1
+	}
+}
