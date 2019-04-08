@@ -1,0 +1,19 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:armor_stand"
+    ]
+  },
+  "criteria": {
+    "has_stone_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stone_slab"
+          }
+        ]
+      }
+    }
+  }
+}
