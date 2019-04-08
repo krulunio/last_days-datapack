@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:written_book",
+						"nbt": "{display:{Lore:[\"Science For 7th Graders\"]}}"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:sponge"
+		]
+	}
+}

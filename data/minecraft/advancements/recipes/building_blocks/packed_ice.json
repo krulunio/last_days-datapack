@@ -1,0 +1,22 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:packed_ice"
+    ]
+  },
+  "criteria": {
+    "has_at_least_9_ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:ice",
+            "count": {
+              "min": 9
+            }
+          }
+        ]
+      }
+    }
+  }
+}
