@@ -14,3 +14,5 @@ function minecraft:safezone/main
 function minecraft:books/main
 
 team join friendly @a
+
+execute as @a unless entity @s[scores={Radiation=0..}] run scoreboard players set @s Radiation 0

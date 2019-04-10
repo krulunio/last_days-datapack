@@ -15,7 +15,6 @@ scoreboard objectives add fresh_spawn dummy
 
 scoreboard objectives add Radiation dummy
 scoreboard objectives setdisplay sidebar Radiation
-execute as @a unless score @s Radiation matches 0.. run scoreboard players set @s Radiation 0
 
 scoreboard objectives add DirtWater dummy
 scoreboard objectives add HallBrain minecraft.used:minecraft.spider_eye
