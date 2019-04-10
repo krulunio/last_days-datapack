@@ -7,7 +7,7 @@
 	],
 	"key": {
 		"a": {
-			"item": "minecraft:cyan_dye"
+			"tag": "minecraft:light_bulb"
 		},
 		"b": {
 			"item": "minecraft:flint"
