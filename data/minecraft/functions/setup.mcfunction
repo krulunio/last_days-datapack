@@ -40,3 +40,5 @@ team add machine "Machine"
 team add generator "Generator"
 scoreboard players set #technical 1_second_tick 1
 function mcprng:load
+
+gamerule doLimitedCrafting true
