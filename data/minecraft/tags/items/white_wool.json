@@ -5,6 +5,19 @@
 		"minecraft:birch_leaves",
 		"minecraft:acacia_leaves",
 		"minecraft:dark_oak_leaves",
-		"minecraft:jungle_leaves"
+		"minecraft:jungle_leaves",
+		"minecraft:light_gray_dye",
+		"minecraft:egg",
+		"minecraft:dandelion_yellow",
+		"minecraft:iron_shovel",
+		"minecraft:iron_hoe",
+		"minecraft:golden_shovel",
+		"minecraft:golden_axe",
+		"minecraft:golden_hoe",
+		"minecraft:stone_shovel",
+		"minecraft:stone_pickaxe",
+		"minecraft:stone_hoe",
+		"minecraft:bowl",
+		"minecraft:shield"
 	]
 }
