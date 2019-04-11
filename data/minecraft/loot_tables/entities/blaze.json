@@ -77,12 +77,12 @@
 				{
 					"type": "item",
 					"name": "minecraft:coal_block",
-					"weight": 3
+					"weight": 2
 				},
 				{
 					"type": "item",
 					"name": "minecraft:blaze_rod",
-					"weight": 8,
+					"weight": 4,
 					"functions": [
 						{
 							"function": "looting_enchant",
@@ -103,22 +103,22 @@
 				{
 					"type": "item",
 					"name": "minecraft:diorite",
-					"weight": 3
+					"weight": 2
 				},
 				{
 					"type": "item",
 					"name": "minecraft:lime_dye",
-					"weight": 1
+					"weight": 4
 				},
 				{
 					"type": "item",
 					"name": "minecraft:cactus_green",
-					"weight": 1
+					"weight": 4
 				},
 				{
 					"type": "item",
 					"name": "minecraft:glowstone_dust",
-					"weight": 1
+					"weight": 8
 				}
 			]
 		}
