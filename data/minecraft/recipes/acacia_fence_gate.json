@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"bab",
+		"bab"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:acacia_slab"
+		},
+		"b": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:acacia_fence_gate",
+		"count": 3
+	},
+	"group": "fence_gate"
+}
