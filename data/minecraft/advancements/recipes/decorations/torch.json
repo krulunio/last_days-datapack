@@ -5,7 +5,7 @@
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:cyan_dye"
+						"tag": "minecraft:light_bulb"
 					}
 				]
 			}
