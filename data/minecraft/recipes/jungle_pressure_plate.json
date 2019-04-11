@@ -1,9 +1,8 @@
 {
 	"type": "crafting_shaped",
 	"pattern": [
-		"ba",
-		"ba",
-		"ba"
+		"b",
+		"a"
 	],
 	"key": {
 		"a": {
@@ -14,8 +13,8 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:jungle_door",
-		"count": 2
+		"item": "minecraft:jungle_pressure_plate",
+		"count": 1
 	},
-	"group": "wooden_door"
+	"group": "pressure_plate"
 }

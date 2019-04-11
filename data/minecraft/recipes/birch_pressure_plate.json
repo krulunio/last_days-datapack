@@ -1,9 +1,8 @@
 {
 	"type": "crafting_shaped",
 	"pattern": [
-		"ba",
-		"ba",
-		"ba"
+		"b",
+		"a"
 	],
 	"key": {
 		"a": {
@@ -15,7 +14,7 @@
 	},
 	"result": {
 		"item": "minecraft:birch_door",
-		"count": 2
+		"count": 1
 	},
-	"group": "wooden_door"
+	"group": "pressure_plate"
 }
