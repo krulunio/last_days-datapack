@@ -11,37 +11,37 @@
 				{
 					"type": "item",
 					"name": "minecraft:iron_nugget",
-					"weight": 5
+					"weight": 7
 				},
 				{
 					"type": "item",
 					"name": "minecraft:string",
-					"weight": 5
+					"weight": 7
 				},
 				{
 					"type": "item",
 					"name": "minecraft:charcoal",
-					"weight": 5
+					"weight": 1
 				},
 				{
 					"type": "item",
 					"name": "minecraft:feather",
-					"weight": 3
+					"weight": 1
 				},
 				{
 					"type": "item",
 					"name": "minecraft:gray_dye",
-					"weight": 3
+					"weight": 1
 				},
 				{
 					"type": "item",
 					"name": "minecraft:pink_dye",
-					"weight": 1
+					"weight": 4
 				},
 				{
 					"type": "item",
 					"name": "minecraft:rose_red",
-					"weight": 1
+					"weight": 4
 				}
 			]
 		}

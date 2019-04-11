@@ -14,22 +14,22 @@
 				{
 					"type": "item",
 					"name": "minecraft:rotten_flesh",
-					"weight": 20
+					"weight": 12
 				},
 				{
 					"type": "item",
 					"name": "minecraft:potato",
-					"weight": 15
+					"weight": 8
 				},
 				{
 					"type": "item",
 					"name": "minecraft:beetroot",
-					"weight": 5
+					"weight": 6
 				},
 				{
 					"type": "item",
 					"name": "minecraft:baked_potato",
-					"weight": 5
+					"weight": 4
 				},
                 {
                     "type": "loot_table",

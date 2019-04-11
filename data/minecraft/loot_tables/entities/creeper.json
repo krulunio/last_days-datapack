@@ -29,7 +29,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:gunpowder",
-					"weight": 6,
+					"weight": 3,
 					"functions": [
 						{
 							"function": "looting_enchant",
@@ -95,31 +95,26 @@
 				{
 					"type": "item",
 					"name": "minecraft:diorite",
-					"weight": 2
+					"weight": 1
 				},
 				{
 					"type": "item",
 					"name": "minecraft:pink_dye",
-					"weight": 2
+					"weight": 3
 				},
 				{
 					"type": "item",
 					"name": "minecraft:lime_dye",
-					"weight": 2
+					"weight": 3
 				},
 				{
 					"type": "item",
 					"name": "minecraft:light_blue_dye",
-					"weight": 2
+					"weight": 1
 				},
 				{
 					"type": "item",
 					"name": "minecraft:fire_charge",
-					"weight": 2
-				},
-				{
-					"type": "item",
-					"name": "minecraft:creeper_head",
 					"weight": 1
 				},
 				{

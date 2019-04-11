@@ -88,7 +88,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:diorite",
-					"weight": 3
+					"weight": 1
 				},
 				{
 					"type": "item",
@@ -98,12 +98,12 @@
 				{
 					"type": "item",
 					"name": "minecraft:bone_block",
-					"weight": 3
+					"weight": 1
 				},
 				{
 					"type": "item",
 					"name": "minecraft:pink_dye",
-					"weight": 1
+					"weight": 3
 				},
 				{
 					"type": "item",
@@ -113,7 +113,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:spider_eye",
-					"weight": 1
+					"weight": 3
 				}
 			]
 		}

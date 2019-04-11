@@ -87,7 +87,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:diorite",
-					"weight": 4
+					"weight": 1
 				},
 				{
 					"type": "item",
@@ -102,16 +102,21 @@
 				{
 					"type": "item",
 					"name": "minecraft:lime_dye",
-					"weight": 1
+					"weight": 4
 				},
 				{
 					"type": "item",
 					"name": "minecraft:pink_dye",
-					"weight": 1
+					"weight": 4
 				},
 				{
 					"type": "item",
 					"name": "minecraft:coal_block",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:dark_prismarine",
 					"weight": 1
 				}
 			]
