@@ -10,7 +10,7 @@
 			"item": "minecraft:flint"
 		},
 		"b": {
-			"item": "minecraft:cobblestone"
+			"item": "minecraft:cobblestone_slab"
 		}
 	},
 	"result": {
