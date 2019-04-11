@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"a",
+		"b"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:acacia_slab"
+		},
+		"b": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:acacia_pressure_plate",
+		"count": 1
+	},
+	"group": "pressure_plate"
+}

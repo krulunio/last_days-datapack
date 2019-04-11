@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ba",
+		"ba",
+		"ba"
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:oak_slab"
+		},
+		"b": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:oak_door",
+		"count": 2
+	},
+	"group": "wooden_door"
+}
