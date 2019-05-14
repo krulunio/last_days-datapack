@@ -5,8 +5,6 @@ scoreboard objectives add tape_uses dummy
 scoreboard objectives add vent_running dummy
 scoreboard objectives add 1_second_tick dummy
 scoreboard objectives add random_number dummy
-scoreboard objectives add supplies_number dummy
-scoreboard objectives add supplies_broken minecraft.mined:minecraft.melon
 scoreboard objectives add golem dummy
 scoreboard objectives add combat_stamina dummy
 scoreboard objectives add energy dummy

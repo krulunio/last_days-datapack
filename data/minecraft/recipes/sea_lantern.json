@@ -10,7 +10,7 @@
 			"item": "minecraft:cyan_dye"
 		},
 		"b": {
-			"item": "#minecraft:coal"
+			"item": "minecraft:coal"
 		},
 		"c": {
 			"item": "minecraft:prismarine"
