@@ -1,15 +1,29 @@
 {
 	"criteria": {
-		"recipe": {
+		"item1": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:iron_ingot"
-					},
+					}
+				]
+			}
+		},
+		"item2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
 					{
 						"item": "minecraft:redstone"
-					},
+					}
+				]
+			}
+		},
+		"item3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
 					{
 						"item": "minecraft:string"
 					}

@@ -5,7 +5,8 @@
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:white_wool"
+						"item": "minecraft:written_book",
+						"nbt": "{display:{Lore:[\"Extraction and compression of materials\"]}}"
 					}
 				]
 			}

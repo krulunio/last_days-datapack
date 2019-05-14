@@ -19,7 +19,7 @@
 			"item": "minecraft:string"
 		},
 		"r": {
-			"item": "minecraft:redstone_dust"
+			"item": "minecraft:redstone"
 		}
 	},
 	"result": {

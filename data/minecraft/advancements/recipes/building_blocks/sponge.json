@@ -6,7 +6,7 @@
 				"items": [
 					{
 						"item": "minecraft:written_book",
-						"nbt": "{display:{Lore:[\"Science For 7th Graders\"]}}"
+						"nbt": "{display:{Lore:[\"SUBmerge Tech\"]}}"
 					}
 				]
 			}

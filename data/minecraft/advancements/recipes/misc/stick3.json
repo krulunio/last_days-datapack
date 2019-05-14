@@ -1,14 +1,7 @@
 {
 	"criteria": {
 		"recipe": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"item": "minecraft:birch_log"
-					}
-				]
-			}
+			"trigger": "minecraft:tick"
 		}
 	},
 	"rewards": {

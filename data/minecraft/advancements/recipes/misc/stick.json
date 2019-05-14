@@ -1,14 +1,7 @@
 {
 	"criteria": {
 		"recipe": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"tag": "minecraft:wood_for_sticks"
-					}
-				]
-			}
+			"trigger": "minecraft:tick"
 		}
 	},
 	"rewards": {
