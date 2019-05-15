@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"s"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:stone_sword"
+		}
+	},
+	"result": {
+		"item": "minecraft:flint",
+		"count": 1
+	}
+}
