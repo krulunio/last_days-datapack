@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"s"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:brown_terracotta"
+		}
+	},
+	"result": {
+		"item": "minecraft:chest",
+		"count": 1
+	}
+}
