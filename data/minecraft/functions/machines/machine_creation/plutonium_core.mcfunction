@@ -1,2 +1,2 @@
-summon minecraft:bat ~ ~-0.5 ~ {Invulnerable: 1b, NoAI: 1b, BatFlags: 1b, CustomNameVisible: 0b, CustomName: "\"plutonium_core\""}
+summon minecraft:bat ~ ~-0.5 ~ {Invulnerable: 1b, NoAI: 1b, BatFlags: 1b, CustomNameVisible: 0b, CustomName: "\"plutonium_core\"", PersistenceRequired: 1b}
 scoreboard players set @e[distance=..0.5, name=plutonium_core] full_struct 0
