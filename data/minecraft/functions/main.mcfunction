@@ -16,4 +16,4 @@ team join friendly @a
 
 execute as @a unless entity @s[scores={Radiation=0..}] run scoreboard players set @s Radiation 0
 
-execute as @e[type=!item] at @s unless data entity @s {Motion:[0.0d,0.0d,0.0d]} run function minecraft:block_damage/main
+execute as @e[] at @s run function minecraft:block_damage/main
