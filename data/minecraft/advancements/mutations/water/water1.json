@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:mutations/water/water0",
+	"display": {
+		"icon": {
+			"item": "minecraft:cod"
+		},
+		"title": "Scales",
+		"description": "Your prolonged exposure to contaminated water led your body to grow hard scales over your skin. (permanent Resistance effect)",
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"E": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

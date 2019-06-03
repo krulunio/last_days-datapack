@@ -10,6 +10,7 @@ function minecraft:radiation/main
 function minecraft:crafting_repairing/main
 function minecraft:safezone/main
 function minecraft:books/main
+execute as @a at @s run function minecraft:mutations/main
 execute as @e[type=minecraft:sheep] run function minecraft:sheep_color_change
 
 team join friendly @a

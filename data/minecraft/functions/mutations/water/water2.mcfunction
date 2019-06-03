@@ -1,0 +1,1 @@
+effect give @s minecraft:conduit_power 1000000

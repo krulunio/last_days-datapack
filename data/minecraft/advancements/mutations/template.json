@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:mutations/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:magma_cream"
+		},
+		"title": "",
+		"description": "",
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"E": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

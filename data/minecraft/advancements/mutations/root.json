@@ -1,0 +1,19 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:magma_cream"
+		},
+		"title": "Mutations",
+		"description": "We changed world, now world changes us",
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"background": "minecraft:textures/block/dried_kelp_side.png"
+	},
+	"criteria": {
+		"E": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

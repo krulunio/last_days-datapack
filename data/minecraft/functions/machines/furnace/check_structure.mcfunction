@@ -1,0 +1,1 @@
+execute as @e[name="furnace", nbt={NoAI: 1b}] at @s unless block ~ ~ ~ #minecraft:furnaces run teleport @s ~ -200 ~
