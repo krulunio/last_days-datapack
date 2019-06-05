@@ -47,4 +47,4 @@ gamerule doLimitedCrafting true
 scoreboard objectives add display dummy "Score Display"
 scoreboard objectives setdisplay sidebar display
 scoreboard players set Radiation display 0
-scoreboard players set Hydration display 120
+scoreboard players set Hydration display 0
