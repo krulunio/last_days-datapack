@@ -10,14 +10,11 @@ scoreboard objectives add combat_stamina dummy
 scoreboard objectives add energy dummy
 scoreboard objectives add powered dummy
 scoreboard objectives add fresh_spawn dummy
+
 scoreboard objectives add Radiation dummy
-scoreboard objectives add unFilteredWater dummy
-scoreboard objectives add Hydration dummy
-scoreboard objectives add thirstTimer dummy
+scoreboard objectives setdisplay sidebar Radiation
 
-scoreboard players set @a Hydration 120
-
-scoreboard objectives add drank minecraft.used:minecraft.potion
+scoreboard objectives add DirtWater dummy
 scoreboard objectives add HallBrain minecraft.used:minecraft.spider_eye
 scoreboard objectives add MushStew minecraft.used:minecraft.mushroom_stew
 scoreboard objectives add ExoLimb minecraft.used:minecraft.pumpkin_pie
@@ -43,8 +40,3 @@ scoreboard players set #technical 1_second_tick 1
 function mcprng:load
 
 gamerule doLimitedCrafting true
-
-scoreboard objectives add display dummy "Score Display"
-scoreboard objectives setdisplay sidebar display
-scoreboard players set Radiation display 0
-scoreboard players set Hydration display 0
