@@ -14,7 +14,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Firearm Basics\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Firearm Basics\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -25,7 +25,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Quick Water Treating\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Quick Water Treating\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -36,7 +36,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"When Doctor Isn't Home\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"When Doctor Isn't Home\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -47,7 +47,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Science For 7th Graders\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Science For 7th Graders\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1

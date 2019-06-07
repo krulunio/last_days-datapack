@@ -1,6 +1,11 @@
 {
     "pools": [
         {
+            "conditions": [
+				{
+					"condition": "killed_by_player"
+				}
+			],
 			"rolls": 1,
 			"entries": [
 				{
@@ -9,18 +14,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title: \"Building Basics\"}"
-						}
-					],
-					"weight": 1000
-				},
-				{
-					"type": "item",
-					"name": "minecraft:written_book",
-					"functions": [
-						{
-							"function": "set_nbt",
-							"tag": "{title:\"Extraction and compression of materials\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Extraction and compression of materials\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -31,7 +25,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Industrial Architecture\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Industrial Architecture\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -42,7 +36,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Redstone For Dummies\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Redstone For Dummies\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -53,7 +47,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Redstone For Pros\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Redstone For Pros\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -64,7 +58,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Electrician's Cheat Sheet\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Electrician's Cheat Sheet\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -75,7 +69,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Power Plant Documentation\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Power Plant Documentation\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1

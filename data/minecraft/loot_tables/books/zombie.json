@@ -1,11 +1,6 @@
 {
     "pools": [
         {
-            "conditions": [
-				{
-					"condition": "killed_by_player"
-				}
-			],
 			"rolls": 1,
 			"entries": [
 				{
@@ -14,7 +9,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Extraction and compression of materials\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Extraction and compression of materials\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -25,7 +20,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Firearm Basics\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Firearm Basics\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -36,7 +31,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Advanced Tools\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Advanced Tools\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -47,7 +42,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Metal Armor\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Metal Armor\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -58,7 +53,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Quick Water Treating\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Quick Water Treating\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -69,7 +64,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"When Doctor Isn't Home\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"When Doctor Isn't Home\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
@@ -80,7 +75,7 @@
 					"functions": [
 						{
 							"function": "set_nbt",
-							"tag": "{title:\"Science For 7th Graders\"]}"
+							"tag": "{title:\"Technology and You\",author:\"dr. Kru\",display:{Lore:[\"Science For 7th Graders\"]}, \"pages\":[]}"
 						}
 					],
 					"weight": 1
