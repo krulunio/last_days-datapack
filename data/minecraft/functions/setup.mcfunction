@@ -14,6 +14,8 @@ scoreboard objectives add Radiation dummy
 scoreboard objectives add unFilteredWater dummy
 scoreboard objectives add Hydration dummy
 scoreboard objectives add thirstTimer dummy
+scoreboard objectives add timerSpecial dummy
+scoreboard objectives add daytime dummy
 
 scoreboard players set @a Hydration 120
 

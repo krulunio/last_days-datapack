@@ -1,0 +1,1 @@
+execute if entity @s[scores={timerSpecial=2000..}] if score #technical daytime matches 0..12000 run function better_masked/mechanic/repair_door

@@ -1,6 +1,7 @@
 function minecraft:machines/main
 
 function minecraft:1_second_tick_main
+function minecraft:daytime
 
 function minecraft:hostile_team
 function minecraft:hydration/thirst_timer

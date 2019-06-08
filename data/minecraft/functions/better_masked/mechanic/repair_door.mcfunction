@@ -1,0 +1,1 @@
+execute if block ~ ~-1 ~ #minecraft:village_frame if block ~ ~2 ~ #minecraft:village_wall if block ~ ~ ~ minecraft:air run function better_masked/mechanic/repair_door2
