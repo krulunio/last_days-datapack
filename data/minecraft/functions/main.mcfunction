@@ -4,7 +4,6 @@ function minecraft:1_second_tick_main
 function minecraft:daytime
 
 function minecraft:hostile_team
-execute as @a at @s run function minecraft:mutations/main
 function minecraft:hydration/thirst_timer
 function minecraft:hydration/water_main
 function minecraft:better_food
@@ -14,6 +13,7 @@ function minecraft:radiation/main
 function minecraft:crafting_repairing/main
 function minecraft:safezone/main
 function minecraft:books/main
+execute as @a at @s run function minecraft:mutations/main
 execute as @e at @s run function minecraft:block_damage
 execute as @e[type=minecraft:sheep] run function minecraft:sheep_color_change
 

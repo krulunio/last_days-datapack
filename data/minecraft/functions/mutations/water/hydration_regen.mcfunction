@@ -1,2 +1,0 @@
-scoreboard players add @s[scores={thirstTimer=..-1}, advancements={mutations/water/in_water=true}] Hydration 1
-scoreboard players add @s[scores={thirstTimer=..-1}, advancements={mutations/water/in_water=true}] thirstTimer 200
