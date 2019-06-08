@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:mutations/water/water0",
+	"criteria": {
+		"in_water": {
+			"trigger": "minecraft:enter_block",
+			"conditions": {
+				"block": "minecraft:water"
+			}
+		}
+	}
+}
