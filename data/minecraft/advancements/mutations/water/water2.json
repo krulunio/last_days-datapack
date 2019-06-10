@@ -5,7 +5,7 @@
 			"item": "minecraft:cod"
 		},
 		"title": "Gills",
-		"description": "Your prolonged exposure to contaminated water led your body to grow gills on your neck. (permanent Conduit Power effect)",
+		"description": "Permanent Conduit Power effect",
 		"frame": "task",
 		"show_toast": false,
 		"announce_to_chat": false,

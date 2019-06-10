@@ -5,7 +5,7 @@
 			"item": "minecraft:cod"
 		},
 		"title": "Hand-fins",
-		"description": "Your prolonged exposure to contaminated water led your body to grow membranes between your fingers. (permanent Dolphin's Grace effect)",
+		"description": "Permanent Dolphin's Grace effect",
 		"frame": "task",
 		"show_toast": false,
 		"announce_to_chat": false,

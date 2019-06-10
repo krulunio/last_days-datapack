@@ -2,10 +2,10 @@
 	"parent": "minecraft:mutations/root",
 	"display": {
 		"icon": {
-			"item": "minecraft:magma_cream"
+			"item": "minecraft:tube_coral"
 		},
-		"title": "",
-		"description": "",
+		"title": "Chitin scales",
+		"description": "No radiation in least irradiated biomes, less radiation from others",
 		"frame": "task",
 		"show_toast": false,
 		"announce_to_chat": false,
