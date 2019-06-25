@@ -1,2 +1,2 @@
-scoreboard players add @a thirstTimer 2
-advancement revoke @a only minecraft:technical/hydration/lower_temp_biomes
+scoreboard players remove @s thirstTimer 1
+advancement revoke @s only minecraft:technical/hydration/lower_temp_biomes
