@@ -13,7 +13,7 @@
 			"item": "minecraft:gold_ingot"
 		},
 		"3": {
-			"item": "minecraft:cactus_green"
+			"item": "minecraft:green_dye"
 		},
 		"4": {
 			"item": "minecraft:light_blue_terracotta"
@@ -25,7 +25,7 @@
 			"item": "minecraft:sign"
 		},
 		"7": {
-			"item": "minecraft:rose_red"
+			"item": "minecraft:red_dye"
 		},
 		"8": {
 			"item": "minecraft:lime_dye"
