@@ -1,0 +1,2 @@
+execute if entity @e[type=minecraft:villager, distance=..8, limit=1] run summon minecraft:snowball ~ ~2.3 ~
+execute as @e[type=minecraft:villager, distance=..8, limit=1] run function minecraft:better_masked/hostile_mobs/attack
