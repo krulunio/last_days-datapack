@@ -2,6 +2,7 @@ function minecraft:machines/main
 
 function minecraft:1_second_tick_main
 function minecraft:daytime
+execute as @a[nbt={Health:0.0f}] run function minecraft:death
 
 function minecraft:hostile_team
 function minecraft:hydration/thirst_timer

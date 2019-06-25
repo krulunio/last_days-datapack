@@ -17,7 +17,7 @@ scoreboard objectives add thirstTimer dummy
 scoreboard objectives add timerSpecial dummy
 scoreboard objectives add daytime dummy
 
-scoreboard players set @a Hydration 120
+execute as @a unless score @s Hydration matches 0.. run scoreboard players set @a Hydration 60
 
 scoreboard objectives add drank minecraft.used:minecraft.potion
 scoreboard objectives add HallBrain minecraft.used:minecraft.spider_eye
