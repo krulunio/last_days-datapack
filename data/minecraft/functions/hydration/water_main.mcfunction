@@ -11,3 +11,6 @@ effect give @a[scores={Hydration=..80}] minecraft:weakness 200
 effect give @a[scores={Hydration=..40}] minecraft:slowness 200
 effect give @a[scores={Hydration=..10}] minecraft:blindness 60
 effect give @a[scores={Hydration=..0}] minecraft:wither 1 1
+
+scoreboard players set @a[scores={Hydration=..-1}] Hydration 0
+scoreboard players set @a[scores={Hydration=201..}] Hydration 200
